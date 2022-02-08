@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/find_bottom_nav"
+        android:enabled="true"
+        android:icon="@drawable/search_fuel_nearby_24"
+        android:title="Find"/>
+    <item
+        android:id="@+id/travel_bottom_nav"
+        android:enabled="true"
+        android:icon="@drawable/endpoint_route_24"
+        android:title="Travel"/>
+    <item
+        android:id="@+id/others_bottom_nav"
+        android:enabled="true"
+        android:icon="@drawable/others_base_24"
+        android:title="Others"/>
+</menu>

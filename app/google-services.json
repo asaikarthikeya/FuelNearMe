@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "211036183753",
+    "project_id": "project1fuelnearme",
+    "storage_bucket": "project1fuelnearme.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211036183753:android:f94771aa2412a3dd8b0118",
+        "android_client_info": {
+          "package_name": "com.example.projectfuelnearme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211036183753-208ddjap5j595124ohr05iks1kajn3qa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.projectfuelnearme",
+            "certificate_hash": "73e5320e678daf77099ea1f8dc3e9f9ed56e4ef4"
+          }
+        },
+        {
+          "client_id": "211036183753-eg3f74ov49jbnvh8d97m5adu34vvqhtg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXo3cLHbFLkSqdtYynCo6dgaSBbvnIlnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211036183753-eg3f74ov49jbnvh8d97m5adu34vvqhtg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
